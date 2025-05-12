@@ -1,0 +1,332 @@
+title: clippy
+emojis:
+  - name: 2fa
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/2fa.gif?token=AR5MONZIM6UVJCF7ZO5BWJTIEFNLI
+  - name: ahhhhhh
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/ahhhhhh.gif?token=AR5MON6O4Y5RGPJNTORZRD3IEFNLI
+  - name: air_nation
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/air_nation.webp?token=AR5MON5FXBF4R66Q4VURSULIEFNLI
+  - name: alarm
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/alarm.gif?token=AR5MON5GTG7OC7WQRYGTGMTIEFNLI
+  - name: angry
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/angry.gif?token=AR5MON2RPRSWWFELCXNQCSDIEFNLI
+  - name: awooga
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/awooga.gif?token=AR5MONZKYVBVVCCZWIK3F43IEFNLI
+  - name: backwards_parrot
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/backwards_parrot.gif?token=AR5MON5ULWFROU3XUC6AV6DIEFNLI
+  - name: ban
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/ban.gif?token=AR5MON3JK27KL7W64ZYSYYDIEFNLI
+  - name: beer
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/beer.gif?token=AR5MONZXNMVIQJ5SPSVP6GLIEFNLI
+  - name: bigcat
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/bigcat.gif?token=AR5MON6QOGSV7UK5L54XQGDIEFNLI
+  - name: blobdance
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/blobdance.gif?token=AR5MONZ35RDY44UPZ5MESKLIEFNLI
+  - name: bmodance
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/bmodance.gif?token=AR5MON6OCS7XBUQQXOXMHULIEFNLI
+  - name: bongocat
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/bongocat.gif?token=AR5MON6TGE3E6ZY2WD264VTIEFNLI
+  - name: bongocat_code
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/bongocat_code.gif?token=AR5MON7A76HIU7C26FHBDQTIEFNLI
+  - name: bongotap
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/bongotap.gif?token=AR5MON7PG3ASYGQKZ5ADZR3IEFNLI
+  - name: boomer-zombie
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/boomer-zombie.gif?token=AR5MON5N52JTW32M5MTMPF3IEFNLI
+  - name: bund
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/bund.gif?token=AR5MONZQ7S7T4TZ5X4AFNBTIEFNLI
+  - name: butt_in_fire
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/butt_in_fire.gif?token=AR5MON43TGGUE6ULEGFOHK3IEFNLI
+  - name: calendarfine
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/calendarfine.gif?token=AR5MON3WDGF7YD647WCWLNDIEFNLI
+  - name: capple
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/capple.gif?token=AR5MON5PPNVTNYLG6YRXOK3IEFNLI
+  - name: cat-explode
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cat-explode.gif?token=AR5MONYLWW36R7VK7RCBTC3IEFNLI
+  - name: cat_dance
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cat_dance.gif?token=AR5MON3VPLPPQKON3OY3COTIEFNLI
+  - name: cat_myaa
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cat_myaa.gif?token=AR5MONYWT3UOHPSGNMJRBMTIEFNLI
+  - name: cat_no
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cat_no.gif?token=AR5MON55QT7CDGAQ7HSR7MTIEFNLI
+  - name: cat_salute
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cat_salute.png?token=AR5MONZHZMK7RFQVDGYXVADIEFNLI
+  - name: cat_typing
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cat_typing.gif?token=AR5MON3ZMSVWDFZ4GXIIRLTIEFNLI
+  - name: cat_yes
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cat_yes.gif?token=AR5MON3U357PPXOYAEWKEQLIEFNLI
+  - name: catchatting
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/catchatting.gif?token=AR5MON7OQ7GXSAHAWH2EMPTIEFNLI
+  - name: catjam
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/catjam.gif?token=AR5MON3JIPX7GFGXYKFYZ2TIEFNLI
+  - name: catjam_fast
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/catjam_fast.gif?token=AR5MON4Y2JRGHP7Z7JCGD6TIEFNLI
+  - name: cattime
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cattime.gif?token=AR5MON4EZ4ANVYWDQGLKWDLIEFNLI
+  - name: cavemanspongebob_gif
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cavemanspongebob_gif.gif?token=AR5MON3DLD6UP6M5FRIKSXTIEFNLI
+  - name: chatting
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/chatting.gif?token=AR5MON3USSQG7HZ2MVVL7EDIEFNLI
+  - name: chel
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/chel.jpeg?token=AR5MON26HDJNJANCHYD3EHTIEFNLI
+  - name: chivo
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/chivo.png?token=AR5MONZD5YY3FU7UWWSWCG3IEFNLI
+  - name: clowncowboy
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/clowncowboy.png?token=AR5MON7FZ4LEMRWNUAFZD3DIEFNLI
+  - name: clownmirrorpepe
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/clownmirrorpepe.png?token=AR5MON6G55CUOODUFN5IORTIEFNLI
+  - name: coffin_dance
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/coffin_dance.gif?token=AR5MON6YPBF2CZPDWBCNK7DIEFNLI
+  - name: cozy-cozy-pepe
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cozy-cozy-pepe.gif?token=AR5MON7EL3BW2UHTYKGVSY3IEFNLI
+  - name: cozypepebubzface
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cozypepebubzface.png?token=AR5MONZ5HDBMDM56RFJBRGLIEFNLI
+  - name: crabpls
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/crabpls.gif?token=AR5MON3JH7RZAPQPQA75ZZ3IEFNLI
+  - name: cute_dog
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/cute_dog.gif?token=AR5MON6DAPR3P5SNQSM6N63IEFNLI
+  - name: dancinduck
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/dancinduck.gif?token=AR5MON43H24PJ4UBFJ3DR7DIEFNLI
+  - name: dead_inside
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/dead_inside.plain?token=AR5MON3RRMU2MCKB75RUABDIEFNLI
+  - name: degrasmile
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/degrasmile.png?token=AR5MON6IKOFUMTASTXROWILIEFNLI
+  - name: diesofcringe1
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/diesofcringe1.gif?token=AR5MON7BA2QUDIF72LYJZCLIEFNLI
+  - name: dog_eating
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/dog_eating.gif?token=AR5MON5FWPA5PVJETNR6Z2LIEFNLI
+  - name: doge
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/doge.png?token=AR5MON32Q72NNA53NY4MT7LIEFNLI
+  - name: doge_dance
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/doge_dance.gif?token=AR5MON2K6LMW2WUQ2MZRYOLIEFNLI
+  - name: dogeheart
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/dogeheart.png?token=AR5MON65VWWKMJJEOTWV7NDIEFNLI
+  - name: duckduck
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/duckduck.gif?token=AR5MON6NN33NYQWEIWT3FZTIEFNLI
+  - name: earth_nation
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/earth_nation.webp?token=AR5MON6P7FZYTNC4F57SITDIEFNLI
+  - name: emotegi
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/emotegi?token=AR5MON3Q46W2EJX2RMM5QCLIEFNLI
+  - name: fake
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/fake.gif?token=AR5MON7BF2PBCQIYDKJQC6LIEFNLI
+  - name: fire_nation
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/fire_nation.webp?token=AR5MON6Z55FJ7AXTFWNQE2LIEFNLI
+  - name: flying_money_parrot
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/flying_money_parrot.gif?token=AR5MON7JNRAMWQSEK2GEZ5TIEFNLI
+  - name: gutsi
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/gutsi.jpeg?token=AR5MON6SAP7HOAFSSUVDPYLIEFNLI
+  - name: hackermans
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/hackermans.gif?token=AR5MONYEITK6PDKY4IARGM3IEFNLI
+  - name: haha
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/haha.jpeg?token=AR5MONZVB5KYXLG2KHCVKOLIEFNLI
+  - name: happi
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/happi.gif?token=AR5MONY7ZBIW4W2GIL4MN5LIEFNLI
+  - name: happy
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/happy.gif?token=AR5MON5VR76J5CKG4DO7SJDIEFNLI
+  - name: haroldpain
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/haroldpain.png?token=AR5MON7YUAYCAWRROKR5DCTIEFNLI
+  - name: heart2
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/heart2.png?token=AR5MONZ6QKS43CHHRMLF7RLIEFNLI
+  - name: hearts
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/hearts.gif?token=AR5MON6PWCPZFITW7N34GCTIEFNLI
+  - name: hello_world
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/hello_world.png?token=AR5MON3244ZWTZQUDWNSGJ3IEFNLI
+  - name: help
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/help.gif?token=AR5MON7TFEL36GU2225O5CTIEFNLI
+  - name: heyguys
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/heyguys.png?token=AR5MONYAAJ7KMNXDEWRLCU3IEFNLI
+  - name: hh
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/hh.png?token=AR5MON4FCWCDD7SYVZDGDQ3IEFNLI
+  - name: hmmmeeting
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/hmmmeeting.gif?token=AR5MONZ6JIHMWUZXCIZOAODIEFNLI
+  - name: huh
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/huh.png?token=AR5MON3X3ZMEDWMOHSYM7GTIEFNLI
+  - name: huhh
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/huhh.png?token=AR5MON4MLVVRPUM6UN5EVN3IEFNLI
+  - name: ilyakaif
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/ilyakaif.png?token=AR5MONZR426GB67HPATLULTIEFNLI
+  - name: improved-pepe-pepe
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/improved-pepe-pepe.gif?token=AR5MON62BNCWHVATL2VNI2DIEFNLI
+  - name: jammies
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/jammies.gif?token=AR5MON3MV6LOKOWKYBRGI7LIEFNLI
+  - name: jdun
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/jdun.webp?token=AR5MON7CCBGR72OK5C3X4A3IEFNLI
+  - name: kek
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/kek.png?token=AR5MON6NTE77E42LKFAMECLIEFNLI
+  - name: kekpoint-funny
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/kekpoint-funny.gif?token=AR5MONZYVYCHQKA5UN7DKI3IEFNLI
+  - name: kekw-kewkwait
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/kekw-kewkwait.gif?token=AR5MONZU3F367B5N4NURVUTIEFNLI
+  - name: kekw
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/kekw.jpeg?token=AR5MONZ4753YMZMEN2ZDUCLIEFNLI
+  - name: kekw
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/kekw.png?token=AR5MON7J7HWOH4JNUXM7MLTIEFNLI
+  - name: kekw21
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/kekw21.gif?token=AR5MON2OWXNZIGPHIX4LFNLIEFNLI
+  - name: kekwait
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/kekwait.png?token=AR5MON4VBBWWCHVVLJH5CBLIEFNLI
+  - name: kitten
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/kitten.gif?token=AR5MON3BAOAHVLJ7Q2SOD7TIEFNLI
+  - name: lain_03
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/lain_03.png?token=AR5MON6ZD4PE72HYSDZREYDIEFNLI
+  - name: left4dead-me-siento-mal
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/left4dead-me-siento-mal.gif?token=AR5MON5LWM5Y3C4IVHSIPJDIEFNLI
+  - name: library
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/library.gif?token=AR5MON3THLT6ADJCIGXDIRDIEFNLI
+  - name: lizardpls
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/lizardpls.gif?token=AR5MON322EKDYAM72WCF5KTIEFNLI
+  - name: lockscreen
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/lockscreen.png?token=AR5MONZOIE4YCETHLRNRLYTIEFNLI
+  - name: lovemeow
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/lovemeow.gif?token=AR5MON2XBZVSC24NWMS5RO3IEFNLI
+  - name: lurking
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/lurking.gif?token=AR5MON7JAFX3AQL3GBJSHALIEFNLI
+  - name: many_popug
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/many_popug.gif?token=AR5MONZPZHBICL5Z7SHYINDIEFNLI
+  - name: meme-cat-cat-meme
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/meme-cat-cat-meme.gif?token=AR5MON554JOIJ7PLM4DVPBDIEFNLI
+  - name: mlady
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/mlady.gif?token=AR5MON3K53BQP42RBPGG533IEFNLI
+  - name: mo
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/mo.png?token=AR5MON2VSCQCK36YRLO6A4DIEFNLI
+  - name: molu
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/molu.gif?token=AR5MON7UL7A3G3VQZGS4YATIEFNLI
+  - name: monkachrist
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/monkachrist.gif?token=AR5MON5WRJPJDZFKZIOUJ2LIEFNLI
+  - name: monkag
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/monkag.gif?token=AR5MON32ZOMNDIO54Q3U4V3IEFNLI
+  - name: monkajesus
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/monkajesus.png?token=AR5MON4KVPIYQ3HYJUSQJFTIEFNLI
+  - name: monkax
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/monkax.gif?token=AR5MON5RIRTNLGNWOUMSDP3IEFNLI
+  - name: net
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/net.png?token=AR5MON5PFVCYEP6WWGVUENLIEFNLI
+  - name: no_horny
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/no_horny.png?token=AR5MON3YLMCGSNQVIQSRZ7DIEFNLI
+  - name: nooo
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/nooo.gif?token=AR5MONZEDX6XK4WZ2JRC7BLIEFNLI
+  - name: noted
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/noted.gif?token=AR5MONYLFUK66HMJE72HXLTIEFNLI
+  - name: nyancat-rainbow-cat
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/nyancat-rainbow-cat.gif?token=AR5MON2PN3ECK5TIWQUNTY3IEFNLI
+  - name: ok
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/ok.plain?token=AR5MON55UNPP27L4XS5QIGLIEFNLI
+  - name: okay
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/okay.png?token=AR5MONZNRVG4MWVHLU6LNFDIEFNLI
+  - name: okaygebusiness
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/okaygebusiness.png?token=AR5MON5E5ATEAAA53Y6LM33IEFNLI
+  - name: omegakek
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/omegakek.png?token=AR5MON5UDKLREBNC46324VDIEFNLI
+  - name: omegalul
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/omegalul.png?token=AR5MON5HXKILRJ4HKLBAKCDIEFNLI
+  - name: opachki
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/opachki.gif?token=AR5MON3RXGR5WSBXBEUUVRTIEFNLI
+  - name: p2p
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/p2p.png?token=AR5MON2NAWCEUPANJC2OCJTIEFNLI
+  - name: parrot
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/parrot.gif?token=AR5MON3A5YKBMKIXBUWZK3TIEFNLI
+  - name: partycat
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/partycat.gif?token=AR5MON4JGSIO3K53MRBOIHLIEFNLI
+  - name: partyparrot
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/partyparrot.gif?token=AR5MON2UL3OUOB52ZH4ULXLIEFNLI
+  - name: peepega
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/peepega.png?token=AR5MONYCGKDXNKHUVSGV4E3IEFNLI
+  - name: peepo_arrive
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/peepo_arrive.gif?token=AR5MON4NBTAQGVWHM4CO73TIEFNLI
+  - name: peepo_clown
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/peepo_clown.jpeg?token=AR5MON7KQT2ERWKF4YIQGLLIEFNLI
+  - name: peepo_leave
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/peepo_leave.gif?token=AR5MON6JGF2IG54N25SMIIDIEFNLI
+  - name: pepe-hammer-pepe-the-frog
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe-hammer-pepe-the-frog.gif?token=AR5MON4CC26UVLAMY7ULYWLIEFNLI
+  - name: pepe-peepo
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe-peepo.gif?token=AR5MON3SU6CWXE3ILRPJZU3IEFNLI
+  - name: pepe-pepe-wink
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe-pepe-wink.gif?token=AR5MONZCHKGL6BODLD3Y3WTIEFNLI
+  - name: pepe-smoke-pepe
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe-smoke-pepe.gif?token=AR5MONY344YCWEKZ2F2P4YTIEFNLI
+  - name: pepe_ban
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe_ban.gif?token=AR5MON5ITKYDSLIGD7J5J6TIEFNLI
+  - name: pepe_clap
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe_clap.gif?token=AR5MON4VBF7LGAU5EG3GIKLIEFNLI
+  - name: pepe_crush
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe_crush.gif?token=AR5MON3ZZ7KEA5OB6F2H7DLIEFNLI
+  - name: pepe_furious
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe_furious.gif?token=AR5MON7M7GZOZFQGRKD2BCDIEFNLI
+  - name: pepe_police_car
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe_police_car.gif?token=AR5MONZU7BTKDQMUKSM6CPLIEFNLI
+  - name: pepe_rain
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepe_rain.gif?token=AR5MON4CLFEP7CTDUNKYFS3IEFNLI
+  - name: pepenoted
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepenoted.gif?token=AR5MON2AD2FUMPOZ7DDQ4Q3IEFNLI
+  - name: pepepray
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepepray.png?token=AR5MON23EYVUL33Z2PTXKQTIEFNLI
+  - name: pepepropeller
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepepropeller.gif?token=AR5MON3TC4AF7A5CRQQZUATIEFNLI
+  - name: pepesad
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepesad.png?token=AR5MON6WB3PPNGHI2YHVWK3IEFNLI
+  - name: pepewideawake
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepewideawake.png?token=AR5MON4OJZHJGWGY5MFZ6R3IEFNLI
+  - name: pepo_cheer
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepo_cheer.gif?token=AR5MONZ6AGLZNWVVE3Z4VPDIEFNLI
+  - name: pepothink
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pepothink.png?token=AR5MONZQE57QCFYKPLG6FN3IEFNLI
+  - name: petrosyan
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/petrosyan.png?token=AR5MON7BE7XSFP3TNVGPY63IEFNLI
+  - name: popcat
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/popcat.gif?token=AR5MONYDDTMKQMBS2DRMGT3IEFNLI
+  - name: pressf
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/pressf.png?token=AR5MON3KF34ZQIQZMU65NV3IEFNLI
+  - name: rapid_cat
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/rapid_cat.gif?token=AR5MON7JQQBHU4OKUIKSNWDIEFNLI
+  - name: ratjam
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/ratjam.gif?token=AR5MONZZE3JQUT3OQDLEIADIEFNLI
+  - name: red_alert
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/red_alert.gif?token=AR5MON4Y3IJHMVEMPR6OR4DIEFNLI
+  - name: rickroll
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/rickroll.gif?token=AR5MONYLGY6MFDRYUIFNOZDIEFNLI
+  - name: roflanebalo
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/roflanebalo.png?token=AR5MONZYAWTD2HHRAPRBVYTIEFNLI
+  - name: sad_cat
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/sad_cat.png?token=AR5MON47WXKXJTG5TNVLNBDIEFNLI
+  - name: sakhalean
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/sakhalean.png?token=AR5MON6VQYZBWFTW3TA2WTDIEFNLI
+  - name: shiza
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/shiza.gif?token=AR5MON6BJ3DWZVSEKTRRPMTIEFNLI
+  - name: shock
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/shock.plain?token=AR5MON6AW2SRI3SNJXTNEUDIEFNLI
+  - name: shrek_puns
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/shrek_puns.gif?token=AR5MON33WJOXXHJ5XJINSFDIEFNLI
+  - name: shrug
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/shrug.png?token=AR5MON26RNUNAOECRGBIBR3IEFNLI
+  - name: slowpoke_what
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/slowpoke_what.gif?token=AR5MON2ACNUVKVMUGHLHCMDIEFNLI
+  - name: staff
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/staff.webp?token=AR5MON44G2M53UK245SZUWDIEFNLI
+  - name: think-spin
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/think-spin.gif?token=AR5MONZJHKP3I7ERRIP5C5LIEFNLI
+  - name: think_about_it
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/think_about_it.png?token=AR5MON6O6XY2WBNOYLDBJ33IEFNLI
+  - name: thisisfine
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/thisisfine.gif?token=AR5MON6WNCQOJ7OZFPI3463IEFNLI
+  - name: uno_card
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/uno_card.plain?token=AR5MON5XZ55B2MSDRBJ72A3IEFNLI
+  - name: upal
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/upal.gif?token=AR5MONYWEF6SWQGUHUPTHJTIEFNLI
+  - name: very-funny-huh
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/very-funny-huh.gif?token=AR5MONZEBQKNUZGE2MGEBJ3IEFNLI
+  - name: wait
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/wait.gif?token=AR5MON445MLXYCCJMELLLQDIEFNLI
+  - name: what
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/what.gif?token=AR5MON7WRSQY56JRUXUHQRTIEFNLI
+  - name: witch-l4d
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/witch-l4d.gif?token=AR5MON2AAGIWJVGHQNYLM7LIEFNLI
+  - name: world-of-warcraft
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/world-of-warcraft.svg?token=AR5MON24BBKI345R66Q74RDIEFNLI
+  - name: worrystick
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/worrystick.gif?token=AR5MON4M4JNCN536H75IF2TIEFNLI
+  - name: yes
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/yes.png?token=AR5MON47236THDBSTJWOOP3IEFNLI
+  - name: yes_honey
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/yes_honey.plain?token=AR5MONZASFJOC5SFE3CM4ETIEFNLI
+  - name: you-died
+    src: https://raw.githubusercontent.com/sixgates/emoji/main/directory/you-died.jpg?token=AR5MON3GS6RV2AWG4DLP2JTIEFNLI
